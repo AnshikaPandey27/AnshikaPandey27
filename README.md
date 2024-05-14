@@ -55,3 +55,43 @@ I am a Full Stack Developer from India.
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnshikaPandey27&theme=dark&background=000000)](https://git.io/streak-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshikaPandey27&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+  ## 🚀 Projects
+Here are a few of my notable projects:
+
+### [Software-License-Management](https://github.com/AnshikaPandey27/Software-License-Management)
+
+Description:Automated Software License requests and installations,optimising employee requisition workflow
+– Tools & technologies used: React.js for frontend, Node.js and Express.js as backend, MongoDB for database
+– A user-friendly interface that enable employees to submit software license requests directly through the platform,
+eliminating the need for cumbersome paperwork or email chains.
+
+### [Court-Room]
+
+Description:Development of e-Portal for facilitating Case Scheduling and Hearing of various type of cases
+– Tools & technologies used: React, Firebase, Blockchain, WebRTC
+– An e-portal would allow parties to access information about their cases 24/7, participate in CMHs remotely, and
+track the progress of their cases. This would save time and money, increase transparency, and improve access to
+justice.
+
+
+### [Shopping-Website](https://github.com/AnshikaPandey27/Shopping-Website)
+
+Description:This website is crafted with HTML and CSS to ensure a seamless and visually appealing journey.
+
+### [Menu-Page](https://github.com/AnshikaPandey27/Menu_Page-of-Hotel)
+
+Description:This website is crafted with HTML and CSS to create a mesmerising Menu-Page of hotel.
+
+### [Love-At-First-Bite](https://github.com/AnshikaPandey27/Love-At-First-Bite)
+
+Description: A modern, fully responsive HTML & CSS website.
+
+
+
+
+  ## 📫 How to reach me
+  - 📧 [Email](mailto:anshikapandey2702@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anshika-pandey-0593b0229/)
+
+  Thank you for visiting my profile! Have a great day! 😊
