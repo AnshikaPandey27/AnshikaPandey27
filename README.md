@@ -21,7 +21,7 @@
 I am a Full Stack Developer from India.
 
 - :telescope: 
- Hi, I’m Anshika Pandey currently in Pre-Final year at PSIT Kanpur pursuing Bachelor's in Technology in Computer science and Engineering.
+ Hi, I’m Anshika Pandey currently in Final year at PSIT Kanpur pursuing Bachelor's in Technology in Computer science and Engineering.
 
 - :seedling:  I’m driven by problem solving techniques and learning opportunities.
 
